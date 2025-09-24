@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# Allow crawling of main CV pages
+Allow: /index.html
+Allow: /complete.html
+Allow: /README.md
+Allow: /llm.txt
+
+
+# Allow crawling of assets
+Allow: /assets/
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+
+
+# Sitemap location
+Sitemap: https://victorguz.github.io/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1

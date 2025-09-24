@@ -1,0 +1,119 @@
+# Victor Guzman - Full Stack Developer
+
+## Personal Information
+**Location:** Barranquilla, Atlántico, Colombia  
+**Phone:** +57 3002017402  
+**Email:** victorguzber@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/victorguzber  
+**GitHub:** https://github.com/victorguz  
+
+## Professional Summary
+I'm a committed person who enjoys solving any challenge that comes my way. My passion for technology began at age 6, when I touched my first computer. Over time, I practiced how it worked and then tried to fully understand it. I'm currently a Systems Engineer with 5 years of experience as a Full Stack Developer. Because I'm passionate about technology, I like connecting with passionate people.
+
+## Top Skills
+- TypeScript
+- React.js
+- Node.js
+- NestJS
+- AWS
+- Next.js
+
+## Languages
+- **Spanish:** Native or Bilingual
+- **English:** Professional Working (B2)
+
+## Professional Experience
+
+### NTT - Full Stack Engineer
+**Duration:** Jul 2024 - Present · 1 yr 6 mos  
+**Location:** Colombia
+
+**Responsibilities:**
+- Architecting and developing Node.js microservices with NestJS and completed CI/CD on AWS
+- Implemented a complex bank report generation system handling dozens of fields with external API concurrency and timeout management
+- Implemented blocking SQL queries to improve data consistency and concurrency
+- Designed and developed AWS Lambda functions for request queuing and processing with SQS batch execution every 15 seconds
+- Created DynamoDB integration for storing calculation results and implemented WebSocket notifications for real-time user feedback
+- Built React application with WebSocket connectivity, audio notifications, and toast notifications for report completion status
+- Lead the React Next.js upgrade from version 8 to 14
+- Update AWS Lambda runtimes to use the latest version of Node.js
+- Ensure software quality through Unit Testing (Jest) and Integration Testing
+- GitFlow for version management and code stability
+- Participate in Release Plans for production deployments
+- Onboard new team members
+- Updated the infrastructure with Terraform
+
+**Key Achievements:**
+- Successfully implemented a scalable bank report generation system capable of handling complex calculations with external API concurrency
+- Improved code coverage from 60% on Java to 82% with Jest unit testing on old microservices
+- Led the development of the insurance sales module, adding a functional product that will generate more profits for the bank
+
+**Technologies:** Node.js, NestJS, Next.js 14, AWS Lambda, AWS SQS, DynamoDB, SQL Optimization, WebSocket, Jest, Terraform, GitFlow
+
+### Asesoftware - Full Stack Developer
+**Duration:** May 2022 - July 2024 · 2 yrs 3 mos  
+**Location:** Bogotá, Distrito Capital, Colombia
+
+#### Subscriptions SaaS - Full Stack Developer
+- Architect a SaaS (Software as a Service) product for subscription management with automated billing
+- Implementing full integration with ATH Payment Gateway
+- Develop a robust backend microservices with NestJS and client with React.js
+- Building out CI/CD infrastructure and pipelines with Serverless and GitFlow to deploy on AWS
+- Interview and lead 2 software development collaborators
+
+#### Cardif Project - Full Stack Developer
+- Development of the claims management APIs
+- Implementing complex business logic with Node.js and React Next.js
+- RSA encryption to ensure data security
+- Integrating with the ATH payment network and providing technical support to production env
+
+#### Sodimac HomeCenter Project - Full Stack Developer
+- Architected and implemented a microfrontend solution to optimize the logistics system for external sellers
+- Provided key support in technical assistance and integration with the ATH payment gateway
+
+#### Ministry of Justice Project - Full Stack Developer
+- Developed and implemented NestJS APIs to register domestic violence cases
+- Develop evidentiary document handling using AWS S3
+- Architected the CI/CD deployment with Serverless and AWS Lambda
+- Develop Frontend Modules with React Next.js 12
+
+#### Mintic Hackaton ft. Bombillo Amarillo - Full Stack Developer
+- Achieved a "Top 10" recognition in a national Mintic hackathon
+- Developing an innovative prototype with React.js in just 2 days
+- The project was recognized as a flagship initiative by the company
+
+**Technologies:** React.js, Next.js, NestJS, AWS, Serverless, AWS S3, AWS Lambda
+
+### Muebles Jamar - Full Stack Developer
+**Duration:** February 2020 - May 2022 (2 yrs 4 mos)  
+**Location:** Barranquilla, Atlántico, Colombia
+
+**Responsibilities:**
+- Developing and maintaining REST APIs using Node.js, Express.js, Ruby On Rails and Java
+- Migrating Java API RESTful services to Node.js and RoR
+- Design and develop the administrator channel with React.js and Next.js and NestJS Lambdas
+- Create PL/SQL functions were consumed by the business APIs
+- Propose new functionalities and updates to the mobile app
+
+**Key Achievements:**
+- Took the initiative to propose, design, and develop a mobile application for the sales force, optimizing their on-site and remote logistics and commercial operations
+- Built the company's administrative portal from the ground up, implementing a modern and functional interface with Node.js Lambdas and React.js
+- Developed and maintained the supporting RESTful APIs for the new applications using Node.js and Express.js
+- Ensured business continuity by supporting critical legacy functionalities in PL/SQL while proposing migration plans to more modern technologies
+
+**Technologies:** Node.js, Express.js, Ruby On Rails, Java, React.js, Next.js, NestJS, PL/SQL
+
+## Education
+
+### Universidad Simón Bolívar
+**Systems Engineer**  
+**Duration:** 2016 - December 2021
+**Bachelor Degree**
+
+### Universidad Simón Bolívar
+**Minor of Software Engineering, Computer Software Engineering**  
+**Duration:** July 2021 - October 2021
+
+### Universidad Simón Bolívar
+**University Teaching, Education**  
+**Duration:** 2018 - 2019

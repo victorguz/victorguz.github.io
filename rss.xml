@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Guzman - Full Stack Developer</title>
+    <description>Professional curriculum vitae and portfolio of Victor Guzman, a Full Stack Developer with 5+ years of experience in Node.js, React.js, AWS, and modern web technologies.</description>
+    <link>https://victorguz.github.io/</link>
+    <atom:link href="https://victorguz.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Nov 2025 00:00:00 GMT</lastBuildDate>
+    <pubDate>Wed, 13 Nov 2025 00:00:00 GMT</pubDate>
+    <ttl>1440</ttl>
+    <managingEditor>victorguzber@gmail.com (Victor Guzman)</managingEditor>
+    <webMaster>victorguzber@gmail.com (Victor Guzman)</webMaster>
+    <category>Technology</category>
+    <category>Software Development</category>
+    <category>Full Stack Development</category>
+    <category>Career</category>
+
+    <!-- Current Position Update -->
+    <item>
+      <title>Full Stack Engineer at NTT - Microservices & Cloud Architecture</title>
+      <description>Currently working as Full Stack Engineer at NTT (July 2024 - Present). Architecting and developing Node.js microservices with NestJS and completed CI/CD on AWS. Designing AWS Lambda functions for request queuing and processing with SQS. Building React applications using Next.js 14 with App Router and WebSocket notifications for real-time updates. Developing integrations with external APIs handling concurrency and timeout management.</description>
+      <link>https://victorguz.github.io/index.html#ntt</link>
+      <guid>https://victorguz.github.io/index.html#ntt</guid>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <category>Current Position</category>
+      <category>NTT</category>
+      <category>Microservices</category>
+      <category>AWS Lambda</category>
+      <category>WebSocket</category>
+    </item>
+
+    <!-- Asesoftware Experience -->
+    <item>
+      <title>Full Stack Developer at Asesoftware - SaaS & Microservices</title>
+      <description>Worked as Full Stack Developer at Asesoftware (May 2022 - July 2024). Architected Subscriptions SaaS product with subscription management and automated billing. Developed robust backend microservices with NestJS and client with React.js. Implemented microfrontend solution to optimize logistics system for Sodimac HomeCenter. Built CI/CD infrastructure with Serverless and GitFlow for AWS deployment. Led 2 software development collaborators and achieved Top 10 recognition in national Mintic hackathon.</description>
+      <link>https://victorguz.github.io/index.html#asesoftware</link>
+      <guid>https://victorguz.github.io/index.html#asesoftware</guid>
+      <pubDate>Sun, 01 May 2022 00:00:00 GMT</pubDate>
+      <category>Asesoftware</category>
+      <category>SaaS</category>
+      <category>Microservices</category>
+      <category>NestJS</category>
+      <category>React.js</category>
+    </item>
+
+    <!-- Muebles Jamar Experience -->
+    <item>
+      <title>Full Stack Developer at Muebles Jamar - Mobile & Admin Portal</title>
+      <description>Worked as Full Stack Developer at Muebles Jamar (February 2020 - May 2022). Developed and maintained REST APIs using Node.js, Express.js, Ruby On Rails, and Java. Migrated Java API RESTful services to Node.js and Ruby on Rails. Built company's administrative portal from ground up with Node.js and React.js. Proposed and developed mobile application for sales force optimization. Created PL/SQL functions consumed by business APIs and ensured business continuity with legacy system support.</description>
+      <link>https://victorguz.github.io/index.html#muebles-jamar</link>
+      <guid>https://victorguz.github.io/index.html#muebles-jamar</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
+      <category>Muebles Jamar</category>
+      <category>Mobile Development</category>
+      <category>Admin Portal</category>
+      <category>API Migration</category>
+      <category>PL/SQL</category>
+    </item>
+
+    <!-- Technical Skills Update -->
+    <item>
+      <title>Advanced Technical Expertise in Modern Web Technologies</title>
+      <description>Proficient in Frontend (React.js, Next.js 14, TypeScript), Backend (Node.js, NestJS, Express.js), Cloud & DevOps (AWS Lambda, SQS, DynamoDB, Terraform, CI/CD), and Databases (MySQL, PL/SQL). Specialized in microservices architecture, WebSocket real-time communication, SQL optimization, and comprehensive testing strategies with Jest.</description>
+      <link>https://victorguz.github.io/README.md#technical-skills</link>
+      <guid>https://victorguz.github.io/README.md#technical-skills</guid>
+      <pubDate>Wed, 13 Nov 2025 00:00:00 GMT</pubDate>
+      <category>Technical Skills</category>
+      <category>Technologies</category>
+      <category>AWS</category>
+      <category>Microservices</category>
+    </item>
+
+    <!-- Education Background -->
+    <item>
+      <title>Systems Engineer - Universidad Simón Bolívar</title>
+      <description>Bachelor's degree in Systems Engineering from Universidad Simón Bolívar (2016-2021). Strong foundation in computer science, software engineering principles, and information technology.</description>
+      <link>https://victorguz.github.io/index.html#education</link>
+      <guid>https://victorguz.github.io/index.html#education</guid>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
+      <category>Education</category>
+      <category>Systems Engineering</category>
+    </item>
+
+    <!-- Contact Information -->
+    <item>
+      <title>Professional Contact Information</title>
+      <description>Connect with Victor Guzman: Phone +57 3002017402, Email victorguzber@gmail.com, LinkedIn linkedin.com/in/victorguzber, GitHub github.com/victorguz. Available for new opportunities and collaborations in Full Stack Development, AWS Cloud Architecture, and Financial Systems.</description>
+      <link>https://victorguz.github.io/index.html#contact</link>
+      <guid>https://victorguz.github.io/index.html#contact</guid>
+      <pubDate>Wed, 13 Nov 2025 00:00:00 GMT</pubDate>
+      <category>Contact</category>
+      <category>Professional Network</category>
+    </item>
+
+  </channel>
+</rss>
