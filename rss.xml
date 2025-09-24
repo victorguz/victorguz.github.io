@@ -3,8 +3,8 @@
   <channel>
     <title>Victor Guzman - Full Stack Developer</title>
     <description>Professional curriculum vitae and portfolio of Victor Guzman, a Full Stack Developer with 5+ years of experience in Node.js, React.js, AWS, and modern web technologies.</description>
-    <link>https://victorguz.github.io/victorguzb-curriculum-vitae/</link>
-    <atom:link href="https://victorguz.github.io/victorguzb-curriculum-vitae/rss.xml" rel="self" type="application/rss+xml"/>
+    <link>https://victorguz.github.io/</link>
+    <atom:link href="https://victorguz.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Sep 2024 00:00:00 GMT</lastBuildDate>
     <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
@@ -20,8 +20,8 @@
     <item>
       <title>Full Stack Engineer at NTT - Current Position</title>
       <description>Currently working as Full Stack Engineer at NTT (July 2024 - Present). Leading Node.js microservices architecture, React Next.js migrations, and AWS cloud implementations. Achieved 95% code coverage and led insurance sales module development.</description>
-      <link>https://victorguz.github.io/victorguzb-curriculum-vitae/index.html#ntt</link>
-      <guid>https://victorguz.github.io/victorguzb-curriculum-vitae/index.html#ntt</guid>
+      <link>https://victorguz.github.io/index.html#ntt</link>
+      <guid>https://victorguz.github.io/index.html#ntt</guid>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <category>Current Position</category>
       <category>NTT</category>
@@ -32,8 +32,8 @@
     <item>
       <title>5+ Years of Full Stack Development Experience</title>
       <description>Comprehensive professional experience spanning multiple companies including NTT, Asesoftware, Muebles Jamar, and Tejido Digital. Expertise in Node.js, React.js, NestJS, AWS, and modern web technologies. Led teams, architected solutions, and delivered successful projects.</description>
-      <link>https://victorguz.github.io/victorguzb-curriculum-vitae/index.html#experience</link>
-      <guid>https://victorguz.github.io/victorguzb-curriculum-vitae/index.html#experience</guid>
+      <link>https://victorguz.github.io/index.html#experience</link>
+      <guid>https://victorguz.github.io/index.html#experience</guid>
       <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
       <category>Experience</category>
       <category>Professional Summary</category>
@@ -43,8 +43,8 @@
     <item>
       <title>Technical Expertise in Modern Web Technologies</title>
       <description>Proficient in Frontend (React.js, Next.js, TypeScript), Backend (Node.js, NestJS, Express.js), Cloud & DevOps (AWS, Terraform, CI/CD), and Databases (DynamoDB, MySQL, PL/SQL). Strong focus on microservices architecture and testing strategies.</description>
-      <link>https://victorguz.github.io/victorguzb-curriculum-vitae/README.md#technical-skills</link>
-      <guid>https://victorguz.github.io/victorguzb-curriculum-vitae/README.md#technical-skills</guid>
+      <link>https://victorguz.github.io/README.md#technical-skills</link>
+      <guid>https://victorguz.github.io/README.md#technical-skills</guid>
       <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
       <category>Technical Skills</category>
       <category>Technologies</category>
@@ -54,8 +54,8 @@
     <item>
       <title>Systems Engineer - Universidad Simón Bolívar</title>
       <description>Bachelor's degree in Systems Engineering from Universidad Simón Bolívar (2016-2021). Strong foundation in computer science, software engineering principles, and information technology.</description>
-      <link>https://victorguz.github.io/victorguzb-curriculum-vitae/index.html#education</link>
-      <guid>https://victorguz.github.io/victorguzb-curriculum-vitae/index.html#education</guid>
+      <link>https://victorguz.github.io/index.html#education</link>
+      <guid>https://victorguz.github.io/index.html#education</guid>
       <pubDate>Fri, 31 Dec 2021 00:00:00 GMT</pubDate>
       <category>Education</category>
       <category>Systems Engineering</category>
@@ -65,8 +65,8 @@
     <item>
       <title>Professional Contact Information</title>
       <description>Connect with Victor Guzman: Phone +57 3002017402, Email victorguzber@gmail.com, LinkedIn linkedin.com/in/victorguzber, GitHub github.com/victorguz. Available for new opportunities and collaborations.</description>
-      <link>https://victorguz.github.io/victorguzb-curriculum-vitae/index.html#contact</link>
-      <guid>https://victorguz.github.io/victorguzb-curriculum-vitae/index.html#contact</guid>
+      <link>https://victorguz.github.io/index.html#contact</link>
+      <guid>https://victorguz.github.io/index.html#contact</guid>
       <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
       <category>Contact</category>
       <category>Professional Network</category>

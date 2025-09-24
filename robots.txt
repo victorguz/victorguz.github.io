@@ -17,7 +17,7 @@ Allow: /js/
 
 
 # Sitemap location
-Sitemap: https://victorguz.github.io/victorguzb-curriculum-vitae/sitemap.xml
+Sitemap: https://victorguz.github.io/sitemap.xml
 
 # Crawl delay (optional)
 Crawl-delay: 1

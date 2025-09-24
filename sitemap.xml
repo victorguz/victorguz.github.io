@@ -6,7 +6,7 @@
 
   <!-- Main CV Page -->
   <url>
-    <loc>https://victorguz.github.io/victorguzb-curriculum-vitae/</loc>
+    <loc>https://victorguz.github.io/</loc>
     <lastmod>2024-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -14,7 +14,7 @@
 
   <!-- Main CV HTML -->
   <url>
-    <loc>https://victorguz.github.io/victorguzb-curriculum-vitae/index.html</loc>
+    <loc>https://victorguz.github.io/index.html</loc>
     <lastmod>2024-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -22,7 +22,7 @@
 
   <!-- Complete CV Version -->
   <url>
-    <loc>https://victorguz.github.io/victorguzb-curriculum-vitae/complete.html</loc>
+    <loc>https://victorguz.github.io/complete.html</loc>
     <lastmod>2024-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -30,7 +30,7 @@
 
   <!-- README Documentation -->
   <url>
-    <loc>https://victorguz.github.io/victorguzb-curriculum-vitae/README.md</loc>
+    <loc>https://victorguz.github.io/README.md</loc>
     <lastmod>2024-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
