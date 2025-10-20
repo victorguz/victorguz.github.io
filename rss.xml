@@ -6,8 +6,8 @@
     <link>https://victorguz.github.io/</link>
     <atom:link href="https://victorguz.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 GMT</lastBuildDate>
-    <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Oct 2025 00:00:00 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
     <ttl>1440</ttl>
     <managingEditor>victorguzber@gmail.com (Victor Guzman)</managingEditor>
     <webMaster>victorguzber@gmail.com (Victor Guzman)</webMaster>
@@ -18,36 +18,70 @@
 
     <!-- Current Position Update -->
     <item>
-      <title>Full Stack Engineer at NTT - Current Position</title>
-      <description>Currently working as Full Stack Engineer at NTT (July 2024 - Present). Leading Node.js microservices architecture, React Next.js migrations, and AWS cloud implementations. Achieved 95% code coverage and led insurance sales module development.</description>
+      <title>Full Stack Engineer at NTT - Bank Report Generation System</title>
+      <description>Currently working as Full Stack Engineer at NTT (July 2024 - Present). Implemented a complex bank report generation system handling dozens of fields with external API concurrency and timeout management. Designed AWS Lambda functions with SQS batch execution, DynamoDB integration, and WebSocket notifications for real-time user feedback.</description>
       <link>https://victorguz.github.io/index.html#ntt</link>
       <guid>https://victorguz.github.io/index.html#ntt</guid>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <category>Current Position</category>
       <category>NTT</category>
-      <category>Full Stack Engineer</category>
+      <category>Bank Report System</category>
+      <category>AWS Lambda</category>
+      <category>WebSocket</category>
     </item>
 
-    <!-- Professional Experience Summary -->
+    <!-- Asesoftware Experience -->
     <item>
-      <title>5+ Years of Full Stack Development Experience</title>
-      <description>Comprehensive professional experience spanning multiple companies including NTT, Asesoftware, Muebles Jamar, and Tejido Digital. Expertise in Node.js, React.js, NestJS, AWS, and modern web technologies. Led teams, architected solutions, and delivered successful projects.</description>
-      <link>https://victorguz.github.io/index.html#experience</link>
-      <guid>https://victorguz.github.io/index.html#experience</guid>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
-      <category>Experience</category>
-      <category>Professional Summary</category>
+      <title>Full Stack Developer at Asesoftware - SaaS & Microservices</title>
+      <description>Worked as Full Stack Developer at Asesoftware (June 2022 - July 2024). Architected Subscriptions SaaS product with subscription management and automated billing. Developed robust backend microservices with NestJS and client with React.js. Implemented microfrontend solution to optimize logistics system for Sodimac HomeCenter. Built CI/CD infrastructure with Serverless and GitFlow for AWS deployment. Led 2 software development collaborators and achieved Top 10 recognition in national Mintic hackathon.</description>
+      <link>https://victorguz.github.io/index.html#asesoftware</link>
+      <guid>https://victorguz.github.io/index.html#asesoftware</guid>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 GMT</pubDate>
+      <category>Asesoftware</category>
+      <category>SaaS</category>
+      <category>Microservices</category>
+      <category>NestJS</category>
+      <category>React.js</category>
     </item>
+
+    <!-- Muebles Jamar Experience -->
+    <item>
+      <title>Full Stack Developer at Muebles Jamar - Mobile & Admin Portal</title>
+      <description>Worked as Full Stack Developer at Muebles Jamar (May 2021 - January 2022). Developed and maintained REST APIs using Node.js, Express.js, Ruby On Rails, and Java. Migrated Java API RESTful services to Node.js and Ruby on Rails. Built company's administrative portal from ground up with Node.js and React.js. Proposed and developed mobile application for sales force optimization. Created PL/SQL functions consumed by business APIs and ensured business continuity with legacy system support.</description>
+      <link>https://victorguz.github.io/index.html#muebles-jamar</link>
+      <guid>https://victorguz.github.io/index.html#muebles-jamar</guid>
+      <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+      <category>Muebles Jamar</category>
+      <category>Mobile Development</category>
+      <category>Admin Portal</category>
+      <category>API Migration</category>
+      <category>PL/SQL</category>
+    </item>
+    <item>
+      <title>Financial Platform Development - Tejido Digital</title>
+      <description>Architected and developed a financial platform module for quotes, purchase orders, and payment orders management at Tejido Digital. Implemented microservice for automated email notifications using Amazon SES, Nodemailer, and Handlebars templates. Developed frontend interface with React 18 for financial operations and order management.</description>
+      <link>https://victorguz.github.io/index.html#tejido-digital</link>
+      <guid>https://victorguz.github.io/index.html#tejido-digital</guid>
+      <pubDate>Wed, 01 Aug 2020 00:00:00 GMT</pubDate>
+      <category>Financial Platform</category>
+      <category>Tejido Digital</category>
+      <category>React 18</category>
+      <category>Amazon SES</category>
+      <category>Microservices</category>
+    </item>
+    <!-- Financial Platform Experience -->
 
     <!-- Technical Skills Update -->
     <item>
-      <title>Technical Expertise in Modern Web Technologies</title>
-      <description>Proficient in Frontend (React.js, Next.js, TypeScript), Backend (Node.js, NestJS, Express.js), Cloud & DevOps (AWS, Terraform, CI/CD), and Databases (DynamoDB, MySQL, PL/SQL). Strong focus on microservices architecture and testing strategies.</description>
+      <title>Advanced Technical Expertise in Modern Web Technologies</title>
+      <description>Proficient in Frontend (React.js, Next.js 14, TypeScript), Backend (Node.js, NestJS, Express.js), Cloud & DevOps (AWS Lambda, SQS, DynamoDB, Terraform, CI/CD), and Databases (MySQL, PL/SQL). Specialized in microservices architecture, WebSocket real-time communication, SQL optimization, and comprehensive testing strategies with Jest.</description>
       <link>https://victorguz.github.io/README.md#technical-skills</link>
       <guid>https://victorguz.github.io/README.md#technical-skills</guid>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
       <category>Technical Skills</category>
       <category>Technologies</category>
+      <category>AWS</category>
+      <category>Microservices</category>
     </item>
 
     <!-- Education Background -->
@@ -64,10 +98,10 @@
     <!-- Contact Information -->
     <item>
       <title>Professional Contact Information</title>
-      <description>Connect with Victor Guzman: Phone +57 3002017402, Email victorguzber@gmail.com, LinkedIn linkedin.com/in/victorguzber, GitHub github.com/victorguz. Available for new opportunities and collaborations.</description>
+      <description>Connect with Victor Guzman: Phone +57 3002017402, Email victorguzber@gmail.com, LinkedIn linkedin.com/in/victorguzber, GitHub github.com/victorguz. Available for new opportunities and collaborations in Full Stack Development, AWS Cloud Architecture, and Financial Systems.</description>
       <link>https://victorguz.github.io/index.html#contact</link>
       <guid>https://victorguz.github.io/index.html#contact</guid>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
       <category>Contact</category>
       <category>Professional Network</category>
     </item>

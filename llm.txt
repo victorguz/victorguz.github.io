@@ -30,28 +30,31 @@ I'm a committed person who enjoys solving any challenge that comes my way. My pa
 
 **Responsibilities:**
 - Architecting and developing Node.js microservices with NestJS and completed CI/CD on AWS
-- Migrate API RESTful from Java 8 to Node.js with NestJS
-- Create, update and query tables in AWS DynamoDB (NoSQL)
-- Collaborate with Front-end team to redesign of the transfers and payments module to optimize the user experience and errors
-- Lead the platform migration from React Next.js 8 to Next.js 14
-- Ensure software quality through Unit Testing (Jest) and QA testing
+- Implemented a complex bank report generation system handling dozens of fields with external API concurrency and timeout management
+- Implemented blocking SQL queries to improve data consistency and concurrency
+- Designed and developed AWS Lambda functions for request queuing and processing with SQS batch execution every 15 seconds
+- Created DynamoDB integration for storing calculation results and implemented WebSocket notifications for real-time user feedback
+- Built React application with WebSocket connectivity, audio notifications, and toast notifications for report completion status
+- Lead the React Next.js upgrade from version 8 to 14
+- Update AWS Lambda runtimes to use the latest version of Node.js
+- Ensure software quality through Unit Testing (Jest) and Integration Testing
 - GitFlow for version management and code stability
 - Participate in Release Plans for production deployments
 - Onboard new team members
 - Updated the infrastructure with Terraform
 
 **Key Achievements:**
-- Achieved the entire migration of Java 8 Monolith to Node.js with microservices architecture
-- Improved code coverage from 60% on Java to 95% with Jest unit testing on the new microservices
+- Successfully implemented a scalable bank report generation system capable of handling complex calculations with external API concurrency
+- Improved code coverage from 60% on Java to 82% with Jest unit testing on old microservices
 - Led the development of the insurance sales module, adding a functional product that will generate more profits for the bank
 
-**Technologies:** Node.js, NestJS, Next.js 14, AWS, DynamoDB, Jest, Terraform, GitFlow
+**Technologies:** Node.js, NestJS, Next.js 14, AWS Lambda, AWS SQS, DynamoDB, SQL Optimization, WebSocket, Jest, Terraform, GitFlow
 
 ### Asesoftware - Full Stack Developer
 **Duration:** June 2022 - July 2024 (2 years 2 months)  
 **Location:** Bogotá, Distrito Capital, Colombia
 
-#### Vyva Subscriptions SaaS - Full Stack Developer
+#### Subscriptions SaaS - Full Stack Developer
 - Architect a SaaS (Software as a Service) product for subscription management with automated billing
 - Implementing full integration with ATH Payment Gateway
 - Develop a robust backend microservices with NestJS and client with React.js
@@ -105,12 +108,13 @@ I'm a committed person who enjoys solving any challenge that comes my way. My pa
 **Location:** Barranquilla, Atlántico, Colombia
 
 **Responsibilities:**
-- Developing RESTful APIs with PHP and MySQL
-- Create Client HTML with PHP
-- Develop web and mobile apps with Angular and Ionic
-- Use Postman to test effective communication between backend services and frontend
+- Architected and developed a financial platform module for quotes, purchase orders, and payment orders management
+- Implemented a microservice for automated email notifications using Amazon SES, Nodemailer, and Handlebars templates
+- Developed the frontend interface with React 18 for financial operations and order management
+- Created RESTful APIs with NestJS and MySQL for financial data processing and storage
+- Integrated payment gateway functionality for processing financial transactions
 
-**Technologies:** PHP, MySQL, Angular, Ionic, HTML, Postman
+**Technologies:** NestJS, MySQL, React 18, Amazon SES, Nodemailer, Handlebars, Microservices, Postman
 
 ## Education
 
